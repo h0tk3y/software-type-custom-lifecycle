@@ -1,0 +1,3 @@
+mySoftwareType {
+    x = 1
+}
